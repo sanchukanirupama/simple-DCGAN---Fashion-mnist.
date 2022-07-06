@@ -1,1 +1,1 @@
-# simple-DCGAN---Fashion-mnist.
+# simple-DCGAN-Fashion-mnist.
